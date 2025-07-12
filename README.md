@@ -1,9 +1,14 @@
 ![](./.github/image/profile.png)
 
-# 💫 About Me:
-## 👋 Hi there, I'm Yoga Asta!<br><br>🎓 I'm a graduate of **Information Technology** from **Udayana University**, passionate about turning ideas into real-world digital solutions.<br><br>💻 With a strong foundation in **Software Engineering**, **Data Science**, and **Machine Learning**, I enjoy building both practical and intelligent systems — from full-stack web applications to predictive models.<br><br>🔍 I also have a solid background in **IT Governance**, ensuring that technology aligns with business goals while maintaining security, compliance, and efficiency.<br><br>🛠️ I love exploring new technologies, contributing to open source, and continuously sharpening my skills in the ever-evolving tech landscape.<br><br>---<br><br>
+## 👋 Hi there, I'm Yoga Asta!<br>
+🎓 I'm a graduate of **Information Technology** from **Udayana University**, passionate about turning ideas into real-world digital solutions.<br><br>💻 With a strong foundation in **Software Engineering**, **Data Science**, and **Machine Learning**, I enjoy building both practical and intelligent systems — from full-stack web applications to predictive models.<br><br>🔍 I also have a solid background in **IT Governance**, ensuring that technology aligns with business goals while maintaining security, compliance, and efficiency.<br><br>🛠️ I love exploring new technologies, contributing to open source, and continuously sharpening my skills in the ever-evolving tech landscape. 
 
-### 🚀 Tech Interests & Focus<br>- Full-stack Web Development  <br>- Data Analysis & Visualization  <br>- Machine Learning & AI Projects  <br>- IT Governance & Compliance Audits  <br><br>---<br><br>
+### 🚀 Tech Interests & Focus<br>
+- Full-stack Web Development  <br>
+- Data Analysis & Visualization  <br>
+- Machine Learning & AI Projects  <br>
+- IT Governance & Compliance Audits  <br>
+----
 ### 📫 Let's Connect!<br>Feel free to reach out or collaborate on exciting projects — I'm always open to learning and working with great minds!<br><br>
 
 <div align="center">
