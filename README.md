@@ -11,12 +11,12 @@
 ----
 ### 📫 Let's Connect!<br>Feel free to reach out or collaborate on exciting projects — I'm always open to learning and working with great minds!<br><br>
 
-<div align="center">
+
   
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/972847989511036948) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yogaastaaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/yogaasta) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@yogabcdefghi.) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/1128Yoga) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yoga.asta.pra@gmail.com) 
 
-# 🚀 Tech Stack & Tools
+# 🚀 Tech Stack & Tools:
 
 ### 🌐 Deployment & Hosting
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
@@ -76,6 +76,8 @@
 ### ⚡ Version Control & Terminal
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+
+<div align="center">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Yogabut&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
